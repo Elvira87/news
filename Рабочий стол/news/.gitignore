@@ -1,0 +1,7 @@
+news_pro/db.sqlite3
+/media
+env_news/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
